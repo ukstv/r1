@@ -1,0 +1,23 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ceramicnetwork/http-client": "^1.5.7",
+    "@ceramicnetwork/stream-tile": "^1.5.7",
+    "@stablelib/random": "^1.0.1",
+    "dids": "^2.4.3",
+    "key-did-provider-ed25519": "^1.1.0",
+    "key-did-resolver": "^1.4.4",
+    "uint8arrays": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
